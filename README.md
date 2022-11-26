@@ -8,7 +8,4 @@ Considering my job I have to learn a few things in shell bash & Python, so here 
 - On a previous life I worked for an "🍎" compagny... 🤫
 - Video games and tabletop gaming saved my life. 
 
-<!---
-Eziral/Eziral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+See ya later aliagtor ! 
